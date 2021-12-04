@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Pyts YouTube Subs
-Plugin URI: https://github.com/poran766/pyts-youtube-subs
+Plugin URI: https://github.com/poran766/pyts-youtube-subs.git
 Description: Display the subscriber number of your site
 Version: 1.0.0
 Author: H.M. Mushfiqur Rahman
