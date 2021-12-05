@@ -9,7 +9,7 @@ Domain Path: /languages
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.6 
-Tested up to: 5.7.2
+Tested up to: 5.8.2
 Stable tag: 1.0.0
 
 A must have plugin that adds a YouTube subscribe button to your blog so people can subscribe to your YouTube channel without leaving your site.
